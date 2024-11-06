@@ -7,9 +7,9 @@
 </head>
 <body>
 	<ul>
-		<li>1</li>
-		<li>2</li>
-		<li>3</li>
+		<a href="page?id=1"><li>POST 1</li></a>
+		<a href="page?id=2"><li>POST 2</li></a>
+		<a href="page?id=3"><li>POST 3</li></a>
 	</ul>
 </body>
 </html>
